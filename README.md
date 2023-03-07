@@ -20,7 +20,7 @@ First, run the development [server](./server.js):
 npm run dev
 ```
 
-Open <http://localhost:3000> with your browser to see the result. Modify the [index.json](./github/index.json) file then refresh the page to the changes applied.
+Open <http://localhost:3000> with your browser to see the result. Modify the [index.json](./github/index.json) file then refresh the page to see the changes applied.
 
 ## Styling and component properties
 
