@@ -36,6 +36,7 @@ The mapping of published content to react.email components is as follows :
 * `a`: <https://github.com/resendlabs/react-email/tree/main/packages/link>
 * `a` with the `isButton:true` property: <https://github.com/resendlabs/react-email/tree/main/packages/button>
 * `p`: <https://github.com/resendlabs/react-email/tree/main/packages/text>
+* `h1, h2, h3, h4, h5, h6`: <https://github.com/resendlabs/react-email/tree/main/packages/heading>
 * `hr`: <https://github.com/resendlabs/react-email/tree/main/packages/hr>
 * `img`: <https://github.com/resendlabs/react-email/tree/main/packages/img>
 * `column` component: <https://github.com/resendlabs/react-email/tree/main/packages/section>
