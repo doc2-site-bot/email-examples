@@ -10,7 +10,7 @@ Demo email examples based on <https://react.email/examples>
 
 The content is provided in Google Docs see Project: <https://drive.google.com/drive/folders/1uaz_fqzAD5K3giQmfumNAyhyloKUdaVm> and styled via an [index.json](./github/index.json). 
 
-* GitHub / Access Token: [source](https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ/edit) | [preview](https://preview--04d6f867-abdf-48d1-9e19-496a3ee28054.doc2.email/github?username=doc2-site-bot)
+* GitHub / Access Token: [source](https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ/edit) | [published](https://api.doc2.site/v1/docs/preview/1uaz_fqzAD5K3giQmfumNAyhyloKUdaVm?path=/github)
 
 ## Getting Started
 
