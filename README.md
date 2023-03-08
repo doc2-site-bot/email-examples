@@ -46,7 +46,7 @@ The [index.json](./github/index.json) file holds selectors to apply styling and 
 
 ## Deployment
 
-The [index.json](./github/index.json) file is deployed to [GitHub Pages](https://pages.github.com/) see <https://doc2-site-bot.github.io/email-examples/github/index.json>. 
+The [index.json](./github/index.json) file is deployed to [GitHub Pages](https://pages.github.com/) see <https://doc2-site-bot.github.io/email-examples/github/index.json> and proxied as defined in <https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ>. 
 
 ## Resources
 
