@@ -44,6 +44,8 @@ The mapping of published content to react.email components is as follows :
 
 The [index.json](./github/index.json) file holds selectors to apply styling and custom properties to these components. 
 
+Use query parameter to replace variables for example, the GitHub Access Token email content defines a variable named `username` and a link to `https://github.com/{username}/tokens`. By setting the query parameter `?username=doc2-site-bot`, you can replace the variable with the provided value.
+
 ## Deployment
 
 The [index.json](./github/index.json) file is deployed to [GitHub Pages](https://pages.github.com/) see <https://doc2-site-bot.github.io/email-examples/github/index.json> and proxied as defined in <https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ>. 
