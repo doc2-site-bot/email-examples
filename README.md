@@ -4,7 +4,7 @@ Demo email examples based on <https://react.email/examples>
 
 ## Live demo
 
-* [GitHub / Access Token](https://preview--emaildemo.doc2.email/github?username=doc2-site-bot)
+* [GitHub / Access Token](https://preview--email-demo.doc2.email/github?username=doc2-site-bot)
 
 ## Content source
 
@@ -14,13 +14,13 @@ The content is provided in Google Docs see Project: <https://drive.google.com/dr
 
 ## Getting Started
 
-First, run the development [server](./server.js):
+First, install the doc2 CLI with `npm i -g @doc2/cli`, then run the doc2.email dev server:
 
 ```
-npm run dev
+doc2 email --dev
 ```
 
-Open <http://localhost:3000> with your browser to see the result. Modify the [index.json](./github/index.json) file then refresh the page to see the changes applied.
+Open <http://localhost:3000/github> with your browser to see the result. Modify the [index.json](./github/index.json) file then refresh the page to see the changes applied.
 
 ## Styling and component properties
 
