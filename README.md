@@ -8,7 +8,7 @@ Demo email examples based on <https://react.email/examples>
 
 ## Content source
 
-The content is provided in Google Docs see Project: <https://drive.google.com/drive/folders/1uaz_fqzAD5K3giQmfumNAyhyloKUdaVm> and styled via an [index.json](./github/index.json). 
+The content is provided in Google Docs see Project: <https://drive.google.com/drive/folders/1uaz_fqzAD5K3giQmfumNAyhyloKUdaVm> and styled via an [ssr.json](./github/ssr.json). 
 
 * GitHub / Access Token: [source](https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ/edit) | [published](https://api.doc2.site/v1/docs/preview/1uaz_fqzAD5K3giQmfumNAyhyloKUdaVm?path=/github)
 
@@ -20,7 +20,7 @@ First, install the doc2 CLI with `npm i -g @doc2/cli`, then run the doc2.email d
 doc2 email --dev
 ```
 
-Open <http://localhost:3000/github> with your browser to see the result. Modify the [index.json](./github/index.json) file then refresh the page to see the changes applied.
+Open <http://localhost:3000/github> with your browser to see the result. Modify the [ssr.json](./github/ssr.json) file then refresh the page to see the changes applied.
 
 ## Styling and component properties
 
@@ -42,13 +42,13 @@ The mapping of published content to react.email components is as follows :
 * `column` component: <https://github.com/resendlabs/react-email/tree/main/packages/section>
 * `column-item` component: <https://github.com/resendlabs/react-email/tree/main/packages/column>
 
-The [index.json](./github/index.json) file holds selectors to apply styling and custom properties to these components. 
+The [ssr.json](./github/ssr.json) file holds selectors to apply styling and custom properties to these components. 
 
 Use query parameters to replace variables for example, the GitHub Access Token email content defines a variable named `username` and a link to `https://github.com/{username}/tokens`. By setting the query parameter `?username=doc2-site-bot`, you can replace the variable with the provided value.
 
 ## Deployment
 
-The [index.json](./github/index.json) file is deployed to [GitHub Pages](https://pages.github.com/) see <https://doc2-site-bot.github.io/email-examples/github/index.json> and proxied as defined in <https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ>. 
+The [ssr.json](./github/ssr.json) file is deployed to [GitHub Pages](https://pages.github.com/) see <https://doc2-site-bot.github.io/email-examples/github/ssr.json> and proxied as defined in <https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ>. 
 
 ## Resources
 
