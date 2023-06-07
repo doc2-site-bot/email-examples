@@ -4,7 +4,7 @@ Demo email examples based on <https://react.email/examples>
 
 ## Live demo
 
-* [GitHub / Access Token](https://preview--email-demo.doc2.email/github?username=doc2-site-bot)
+* [GitHub / Access Token](https://preview--examples.doc2.email/github?username=doc2-site-bot)
 
 ## Content source
 
