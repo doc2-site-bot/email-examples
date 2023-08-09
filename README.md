@@ -48,7 +48,7 @@ Use query parameters to replace variables for example, the GitHub Access Token e
 
 ## Deployment
 
-The [SSR configuration](./doc2.email.config.json) is deployed to [GitHub Pages](https://pages.github.com/) see <https://doc2-site-bot.github.io/email-examples/github/ssr.json> and proxied as defined in <https://docs.google.com/document/d/11SDcbYZvHN2Q3LWHQo5TAhMu-hbkmq4EoLu0xJ3naUQ>. 
+The [SSR configuration](./doc2.email.config.json) is deployed to [GitHub Pages](https://pages.github.com/) see <https://doc2-site-bot.github.io/email-examples/doc2.email.config.json> and proxied as defined in <https://docs.google.com/spreadsheets/d/1Px85-PSykVc_Z0LIaW7SuM4x5gqi4EV2F_kF6UWIK0w/edit#gid=221884602>. 
 
 ## Resources
 
